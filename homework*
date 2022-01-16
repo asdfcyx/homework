@@ -1,0 +1,416 @@
+主页：
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>主页</title>
+    <link rel="stylesheet" href="n.css" media="screen">
+<link rel="stylesheet" href="./a.css" media="screen">
+    <script class="u-script" type="text/javascript" src="j.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="n.js" defer=""></script>
+    <meta name="generator" content="Nicepage 3.10.2, www.11moban.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"url": "index.html",
+		"logo": "images/Untitled-2.png"
+}</script>
+    <meta property="og:title" content="About">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#1f203a">
+    <link rel="canonical" href="index.html">
+    <meta property="og:url" content="index.html">
+  </head>
+  <body class="u-body"><header class="u-clearfix u-header u-palette-1-base u-header" id="sec-ab9d" ><div class="u-clearfix u-sheet u-sheet-1">
+      <p class="u-image u-logo u-image-1"></p>
+          <img src="images/Untitled-2.png" class="u-logo-image u-logo-image-1" data-image-width="64">
+        </a>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="XL">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 500;">
+            <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-text-white" href="#">
+              <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</symbol>
+</defs></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-grey-5 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-grey-10 u-nav-link u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base" href="About.html" style="padding: 10px 20px;">返回第一页</a>
+</li><li><a class="u-active-grey-5 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-grey-10 u-nav-link u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base" href="Home.html" style="padding: 10px 20px;"></a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="主页.html" style="padding: 10px 20px;">主页</a>
+                    <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页1.html" style="padding: 10px 20px;">各课程间的关系</a>
+                        <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页2.html" style="padding: 10px 20px;">我对计算机专业的认识</a>
+                            <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页3.html" style="padding: 10px 20px;">我的学业规划</a>
+</li></ul>
+                </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header> 
+    
+    
+    <footer class="u-align-center u-clearfix u-footer u-palette-1-base u-footer" id="sec-0f65"><div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-small-text u-text u-text-variant u-text-1"><a href="./网页1.html";>各课程间的关系</a></p>
+        <p class="u-small-text u-text u-text-variant u-text-1"><a href="./网页2.html">我对计算机专业的认识</a></p>
+        <p class="u-small-text u-text u-text-variant u-text-1"><a href="./网页3.html">我的学业规划</a></p>
+      </div></footer>
+    <section class="u-backlink u-clearfix u-grey-80">
+        <span>制作人姓名：陈彦希</span>
+      </a>
+      <p class="u-text">
+        <span>班级：智能电气与信息2128班</span>
+      </p>
+        <span>学号：2213210590</span>
+      </a>. 
+    </section>
+  </body>
+</html>
+
+
+网页1：
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>各课程间的关系</title>
+      <link rel="stylesheet" href="n.css" media="screen">
+      <link rel="stylesheet" href="./a.css" media="screen">
+      <script class="u-script" type="text/javascript" src="j.js" defer=""></script>
+      <script class="u-script" type="text/javascript" src="n.js" defer=""></script>
+      <meta name="generator" content="Nicepage 3.10.2, www.11moban.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+    
+    
+    
+    <script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"url": "index.html",
+		"logo": "images/Untitled-2.png"
+}</script>
+    <meta property="og:title" content="Blog Template">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#1f203a">
+    <link rel="canonical" href="index.html">
+    <meta property="og:url" content="index.html">
+  </head>
+  <body background="https://img2.baidu.com/it/u=2167613518,550549616&fm=26&fmt=auto" class="u-body">
+  <header class="u-clearfix u-header u-palette-1-base u-header" id="sec-ab9d">
+      <div class="u-clearfix u-sheet u-sheet-1">
+          <p class="u-image u-logo u-image-1"></p>
+          <img src="images/Untitled-2.png" class="u-logo-image u-logo-image-1" data-image-width="64">
+        </a>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="XL">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 500;">
+            <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-text-white" href="#">
+              <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</symbol>
+</defs></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-grey-5 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-grey-10 u-nav-link u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base" href="home-page.html" style="padding: 10px 20px;">home page</a>
+</li><li class="u-nav-item"><a class="u-active-grey-5 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-grey-10 u-nav-link u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base" href="Home.html" style="padding: 10px 20px;">Home</a>
+</li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                  <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="主页.html" style="padding: 10px 20px;">主页</a>
+                      <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页1.html" style="padding: 10px 20px;">各课程间的关系</a>
+                          <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页2.html" style="padding: 10px 20px;">我对计算机专业的认识</a>
+                              <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页3.html" style="padding: 10px 20px;">我的学业规划</a>
+</li></ul>
+                 </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+          </div>
+        </nav>
+      </div></header>
+  <h4 align="center">计算机学科各课程之间的关系</h4>
+  <p style="font-family;color:red;font-size:15px;" align="center">（直接点击课程名即可链接到参考资料）</p>
+  <h4 align="center">必修课程(箭头指向表示为前提关系)</h4>
+  <table border="0" align="center">
+      <tr>
+          <td style="font-family:arial;color:red;font-size:20px;"><a href="https://www.docin.com/p-641471796.html">数字逻辑电路</a></td>
+          <td style="font-family:arial;color:red;font-size:20px;">——————▶</td>
+          <td style="font-family:arial;color:red;font-size:20px;"><a href="https://max.book118.com/html/2020/0505/8024036142002110.shtm">计算机组成原理</a></td>
+      </tr>
+      <td align="center" style="font-family:arial;color:red;font-size:20px;">|</td>
+      <td></td>
+      <td align="center" style="font-family:arial;color:red;font-size:20px;">|</td>
+      </tr>
+      <td align="center" style="font-family:arial;color:red;font-size:20px;">|</td>
+      <td align="center"><img src="https://iknow-pic.cdn.bcebos.com/d000baa1cd11728b917467b3dafcc3cec2fd2cc2" width="100" height="64" /></td>
+      <td align="center" style="font-family:arial;color:red;font-size:20px;">|</td>
+      </tr>
+      <td align="center" style="font-family:arial;color:red;font-size:20px;">▼</td>
+      <td></td>
+      <td align="center" style="font-family:arial;color:red;font-size:20px;">▼</td>
+      </tr>
+      <tr>
+          <td style="font-family:arial;color:red;font-size:20px;"><a href="https://www.docin.com/p-562958143.html">计算机系统结构</a></td>
+          <td></td>
+          <td style="font-family:arial;color:red;font-size:20px;"><a href="https://wenku.baidu.com/view/9012b159bbd528ea81c758f5f61fb7360a4c2b67.html">微机接口技术</a></td>
+      </tr>
+  </table>
+  <br></br>
+  <br></br>
+  <hr />
+
+  <h4 align="center">专业课程(箭头指向表示为前提关系)</h4>
+  <table align="center" border="1">
+      <tr>
+          <td style="font-family:arial;color:blue;font-size:20px;" align="center"><a href="https://max.book118.com/html/2020/0505/7031002200002132.shtm">算法与数据结构</a></td>
+      </tr>
+      <td style="font-family:arial;color:blue;font-size:20px;" align="center"><a href="https://wenku.baidu.com/view/13774d0516fc700abb68fc50.html">离散数学</a></td>
+      </tr>
+      <td style="font-family:arial;color:blue;font-size:20px;" align="center"><a href="https://wenku.baidu.com/view/acf323287c1cfad6195fa7ff.html">计算机操作系统</a></td>
+      </tr>
+  </table>
+  <p style="font-family:arial;color:blue;font-size:20px;" align="center">|</p>
+  <p style="font-family:arial;color:green;font-size:20px;" align="center">▼</p>
+
+  <table align="center" border="1">
+      <tr>
+          <td style="font-family:arial;color:green;font-size:20px;" align="center"><a href="https://www.doc88.com/p-7975020696445.html"数据库概论></a></td>
+      </tr>
+      <td style="font-family:arial;color:green;font-size:20px;" align="center"><a href="https://wenku.baidu.com/view/bc3f2ab6366baf1ffc4ffe4733687e21ae45ffd3.html">数据库应用</a></td>
+      </tr>
+      <td style="font-family:arial;color:green;font-size:20px;" align="center"><a href="https://www.docin.com/p-2435844865.html">数据通信与计算机网</a></td>
+      </tr>
+      <td style="font-family:arial;color:green;font-size:20px;" align="center"><a href="https://wenku.baidu.com/view/6ce16c25acaad1f34693daef5ef7ba0d4a736dac.html">高级语言程序设计</a></td>
+      </tr>
+      <td style="font-family:arial;color:green;font-size:20px;" align="center"><a href="https://wenku.baidu.com/view/1f5b89c9a1c7aa00b52acb2e.html">软件工程</a></td>
+      </tr>
+      <td style="font-family:arial;color:green;font-size:20px;" align="center"><a href="https://max.book118.com/html/2018/0603/170527575.shtm">软件编程实践</a></td>
+      </tr>
+      <td style="font-family:arial;color:green;font-size:20px;" align="center"><a href="https://max.book118.com/html/2018/0314/157211216.shtm">计算机网络工程</a></td>
+      </tr>
+  </table>
+
+  <br/>
+  <p align="center">其中，数据库概论为数据库应用提供基础，软件工程为软件编程实践提供基础</p>
+  <br/>
+
+  <section class="u-backlink u-clearfix u-grey-80">
+      <span>制作人姓名：陈彦希</span>
+      </a>
+      <p class="u-text">
+          <span>班级：智能电气与信息2128班</span>
+      </p>
+      <span>学号：2213210590</span>
+      </a>.
+  </section>
+  </body>
+</html>
+
+
+网页2：
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>我对计算机专业的认识</title>
+    <link rel="stylesheet" href="n.css" media="screen">
+    <link rel="stylesheet" href="./a.css" media="screen">
+    <script class="u-script" type="text/javascript" src="j.js" defer=""></script>
+    <script class="u-script" type="text/javascript" src="n.js" defer=""></script>
+    <meta name="generator" content="Nicepage 3.10.2, www.11moban.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+
+
+
+    <script type="application/ld+json">{
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "",
+        "url": "index.html",
+        "logo": "images/Untitled-2.png"
+    }</script>
+    <meta property="og:title" content="Blog Template">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#1f203a">
+    <link rel="canonical" href="index.html">
+    <meta property="og:url" content="index.html">
+</head>
+<body background="https://img2.baidu.com/it/u=2167613518,550549616&fm=26&fmt=auto" class="u-body">
+<header class="u-clearfix u-header u-palette-1-base u-header" id="sec-ab9d">
+    <div class="u-clearfix u-sheet u-sheet-1">
+        <p class="u-image u-logo u-image-1"></p>
+        <img src="images/Untitled-2.png" class="u-logo-image u-logo-image-1" data-image-width="64">
+        </a>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="XL">
+            <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 500;">
+                <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-text-white" href="#">
+                    <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+                    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+                    </symbol>
+                    </defs></svg>
+                </a>
+            </div>
+            <div class="u-custom-menu u-nav-container">
+                <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-grey-5 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-grey-10 u-nav-link u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base" href="home-page.html" style="padding: 10px 20px;">home page</a>
+                </li><li class="u-nav-item"><a class="u-active-grey-5 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-grey-10 u-nav-link u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base" href="Home.html" style="padding: 10px 20px;">Home</a>
+                </li></ul>
+            </div>
+            <div class="u-custom-menu u-nav-container-collapse">
+                <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+                    <div class="u-sidenav-overflow">
+                        <div class="u-menu-close"></div>
+                        <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="主页.html" style="padding: 10px 20px;">主页</a>
+                            <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页1.html" style="padding: 10px 20px;">各课程间的关系</a>
+                                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页2.html" style="padding: 10px 20px;">我对计算机专业的认识</a>
+                                    <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页3.html" style="padding: 10px 20px;">我的学业规划</a>
+                                    </li></ul>
+                      </div>
+                </div>
+                <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+            </div>
+        </nav>
+    </div></header>
+<h4 align="center">我对计算机专业的认识</h4>
+<p align="center">原本没有深入了解计算机这个专业的时候，想到计算机，我心中与之联系到的就是</p>
+<p style="font-family:arial;color:red;font-size:20px;" align="center">码农？薪资高？易失业？</p>
+<p align="center">现在学了一定知识，通过计算机科学与技术导论课程的学习，我意识到</p>
+<p style="font-family:arial;color:red;font-size:20px;" align="center">事实并非如此！！！</p>
+<p align="center">计算机的课程有高级程序设计语言、数据结构、算法导论、计算机网络、操作系统、计算机系统（计算机组成原理）、编译原理等</p>
+<p align="center">理论上，一切需要高效率处理数据的工作都可以由计算机专业的来完成</p>
+<p align="center">与其害怕学计算机很难学，容易被炒，容易掉发，还不如长久保持自我学习能力，这样才能避免35岁危机</p>
+<p style="font-family:arial;color:red;font-size:20px;" align="center">不思进取在任何行业都会被淘汰！！！</p>
+<p align="center">信息时代就是追求高效益，一些技术不好的程序员将会被解雇，更多的是，一切简单的重复性的工作将会被计算机、机器人替代</p>
+<p align="center">现在适应环境才是信息时代给我们最大的启发，不断创造出新的想法去影响世界，去改变世界</p>
+<p style="font-family:arial;color:red;font-size:20px;" align="center">而不是日复一日在那里敲代码，不断机械地重复。我们需要有所创新！</p>
+<p align="center">一门技术，不管你的出发点如何善意，总会有人使用到不好的地方。我们能做的就是，尽量让自己成为一个不利用技术作恶的人</p>
+<p align="center">或许这才是计算机专业的价值所在吧</p>
+<p align="center">尽管我现在是名大一学生，但我现在以及确定了以后学习的方向</p>
+<p style="font-family:arial;color:red;font-size:20px;" align="center">我要学计算机！！！</p>
+
+<section class="u-backlink u-clearfix u-grey-80">
+    <span>制作人姓名：陈彦希</span>
+    </a>
+    <p class="u-text">
+        <span>班级：智能电气与信息2128班</span>
+    </p>
+    <span>学号：2213210590</span>
+    </a>.
+</section>
+</body>
+</html>
+
+
+网页3：
+<!DOCTYPE html>
+<html style="font-size: 16px;">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <meta name="page_type" content="np-template-header-footer-from-plugin">
+  <title>我对计算机专业的认识</title>
+  <link rel="stylesheet" href="n.css" media="screen">
+  <link rel="stylesheet" href="./a.css" media="screen">
+  <script class="u-script" type="text/javascript" src="j.js" defer=""></script>
+  <script class="u-script" type="text/javascript" src="n.js" defer=""></script>
+  <meta name="generator" content="Nicepage 3.10.2, www.11moban.com">
+  <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i">
+
+
+
+  <script type="application/ld+json">{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "",
+    "url": "index.html",
+    "logo": "images/Untitled-2.png"
+  }</script>
+  <meta property="og:title" content="Blog Template">
+  <meta property="og:type" content="website">
+  <meta name="theme-color" content="#1f203a">
+  <link rel="canonical" href="index.html">
+  <meta property="og:url" content="index.html">
+</head>
+<body background="https://img2.baidu.com/it/u=2167613518,550549616&fm=26&fmt=auto" class="u-body">
+<header class="u-clearfix u-header u-palette-1-base u-header" id="sec-ab9d">
+  <div class="u-clearfix u-sheet u-sheet-1">
+    <p class="u-image u-logo u-image-1"></p>
+    <img src="images/Untitled-2.png" class="u-logo-image u-logo-image-1" data-image-width="64">
+    </a>
+    <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1" data-responsive-from="XL">
+      <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 500;">
+        <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-text-white" href="#">
+          <svg><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#menu-hamburger"></use></svg>
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+          </symbol>
+          </defs></svg>
+        </a>
+      </div>
+      <div class="u-custom-menu u-nav-container">
+        <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-grey-5 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-grey-10 u-nav-link u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base" href="home-page.html" style="padding: 10px 20px;">home page</a>
+        </li><li class="u-nav-item"><a class="u-active-grey-5 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-grey-10 u-nav-link u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base" href="Home.html" style="padding: 10px 20px;">Home</a>
+        </li></ul>
+      </div>
+      <div class="u-custom-menu u-nav-container-collapse">
+        <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+          <div class="u-sidenav-overflow">
+            <div class="u-menu-close"></div>
+            <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="主页.html" style="padding: 10px 20px;">主页</a>
+              <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页1.html" style="padding: 10px 20px;">各课程间的关系</a>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页2.html" style="padding: 10px 20px;">我对计算机专业的认识</a>
+                  <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link" href="网页3.html" style="padding: 10px 20px;">我的学业规划</a>
+                  </li></ul>
+            </div>
+        </div>
+        <div class="u-black u-menu-overlay u-opacity u-opacity-70"></div>
+      </div>
+    </nav>
+  </div></header>
+<h3 align="center">我的学业规划</h3>
+<p align="center">我目前还是名大一的学生，且已经了解到计算机专业在分流时有一定的竞争</p>
+<p align="center">我会为此不断努力，不轻易松懈自己的学习</p>
+<p align="center">不轻易放弃任何一科的成绩，认真对待每一次考试</p>
+<p align="center">争取在大一年级进入年级前列，前10%！</p>
+<p align="center">下学期即将学习的C语言，我已计划在寒假提前进行自学，努力让自己精通这一门编程语言</p>
+<p align="center">若是能成功分流到计算机专业里面，我定会更加认真对待并且珍惜这学习的机会</p>
+<p style="font-family:arial;color:red;font-size:20px;" align="center">努力让自己在此领域最终获得一定成就！！！</p>
+<br/>
+<p align="center"><img src=https://pica.zhimg.com/80/v2-f059688bb3964c591ecb9443d63e8f2a_720w.jpg width="400" height="350"></p>
+
+
+<section class="u-backlink u-clearfix u-grey-80">
+  <span>制作人姓名：陈彦希</span>
+  </a>
+  <p class="u-text">
+    <span>班级：智能电气与信息2128班</span>
+  </p>
+  <span>学号：2213210590</span>
+  </a>.
+</section>
+</body>
+</html>
